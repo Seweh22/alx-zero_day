@@ -1,2 +1,1 @@
-this is my second readme
-This is my second readme
+second readme for 0x03-git
